@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-08-02T16:50:14.595+09:00
-  initializedAtString: 2020-08-02T16:50:14.595+09:00
+  lastUpdatedAtString: 2020-08-03T00:11:46.374+09:00
+  initializedAtString: 2020-08-02T23:15:50.880+09:00
   currentGitRemote:
     name: origin
     url: https://github.com/bobby-ologun/Unity-test.git
