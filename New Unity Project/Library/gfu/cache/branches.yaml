@@ -13,14 +13,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-08-02T16:50:40.931+09:00
-  initializedAtString: 2020-08-02T16:50:40.797+09:00
+  lastUpdatedAtString: 2020-08-03T00:11:46.504+09:00
+  initializedAtString: 2020-08-02T23:15:52.144+09:00
   localBranches:
   - name: branch_add_project
     tracking: origin/branch_add_project
-  - name: master
-    tracking: origin/master
   remoteBranches:
+  - name: origin/add-project
+    tracking: '[None]'
+  - name: origin/branch_add_project
+    tracking: '[None]'
   - name: origin/HEAD
     tracking: '[None]'
   - name: origin/master
@@ -36,27 +38,33 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - branch_add_project
-    - master
     values:
     - name: branch_add_project
       remote:
         name: origin
         url: https://github.com/bobby-ologun/Unity-test.git
       trackingBranch: branch_add_project
-    - name: master
-      remote:
-        name: origin
-        url: https://github.com/bobby-ologun/Unity-test.git
-      trackingBranch: master
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
+      - add-project
+      - branch_add_project
       - HEAD
       - master
     subKeyValues:
     - Values:
+      - name: add-project
+        remote:
+          name: origin
+          url: https://github.com/bobby-ologun/Unity-test.git
+        trackingBranch: 
+      - name: branch_add_project
+        remote:
+          name: origin
+          url: https://github.com/bobby-ologun/Unity-test.git
+        trackingBranch: 
       - name: HEAD
         remote:
           name: origin
