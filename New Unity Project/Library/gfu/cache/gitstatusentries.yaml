@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-08-06T14:35:17.199+09:00
-  initializedAtString: 2020-08-06T14:35:17.199+09:00
+  lastUpdatedAtString: 2020-08-06T15:36:43.040+09:00
+  initializedAtString: 2020-08-06T14:59:14.862+09:00
   entries:
   - path: New Unity Project\Library\EditorInstance.json
     fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Library\EditorInstance.json
@@ -22,6 +22,42 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: New Unity Project\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: New Unity Project\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: New Unity Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
     projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
@@ -76,75 +112,69 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: New Unity Project\Temp\UnityLockfile
     fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: New Unity Project\Temp\UnityTempFile-0f63a2ed78f88114ea8dd9983646bcbe
-    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Temp\UnityTempFile-0f63a2ed78f88114ea8dd9983646bcbe
-    projectPath: Temp\UnityTempFile-0f63a2ed78f88114ea8dd9983646bcbe
+  - path: New Unity Project\Temp\UnityTempFile-134936881e73fb547958b97310fe31eb
+    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Temp\UnityTempFile-134936881e73fb547958b97310fe31eb
+    projectPath: Temp\UnityTempFile-134936881e73fb547958b97310fe31eb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: New Unity Project\Temp\UnityTempFile-1fc6ac8090166094089642945609e7d2
-    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Temp\UnityTempFile-1fc6ac8090166094089642945609e7d2
-    projectPath: Temp\UnityTempFile-1fc6ac8090166094089642945609e7d2
+  - path: New Unity Project\Temp\UnityTempFile-1673122a5b7e0354db05ea8c936cfab6
+    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Temp\UnityTempFile-1673122a5b7e0354db05ea8c936cfab6
+    projectPath: Temp\UnityTempFile-1673122a5b7e0354db05ea8c936cfab6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: New Unity Project\Temp\UnityTempFile-39357f94cd46d2c438572b0b02897050
-    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Temp\UnityTempFile-39357f94cd46d2c438572b0b02897050
-    projectPath: Temp\UnityTempFile-39357f94cd46d2c438572b0b02897050
+  - path: New Unity Project\Temp\UnityTempFile-3e5fe264291bbb34db58e7528913689c
+    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Temp\UnityTempFile-3e5fe264291bbb34db58e7528913689c
+    projectPath: Temp\UnityTempFile-3e5fe264291bbb34db58e7528913689c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: New Unity Project\Temp\UnityTempFile-4b895dbc1f1665a47ab288f6b95b68a3
-    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Temp\UnityTempFile-4b895dbc1f1665a47ab288f6b95b68a3
-    projectPath: Temp\UnityTempFile-4b895dbc1f1665a47ab288f6b95b68a3
+  - path: New Unity Project\Temp\UnityTempFile-457e623c3c4afab439854d92a045f286
+    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Temp\UnityTempFile-457e623c3c4afab439854d92a045f286
+    projectPath: Temp\UnityTempFile-457e623c3c4afab439854d92a045f286
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: New Unity Project\Temp\UnityTempFile-6025b9fbcdb8a714cb7c6127c725b34f
-    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Temp\UnityTempFile-6025b9fbcdb8a714cb7c6127c725b34f
-    projectPath: Temp\UnityTempFile-6025b9fbcdb8a714cb7c6127c725b34f
+  - path: New Unity Project\Temp\UnityTempFile-803723e4255afba40be59895542a5b80
+    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Temp\UnityTempFile-803723e4255afba40be59895542a5b80
+    projectPath: Temp\UnityTempFile-803723e4255afba40be59895542a5b80
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: New Unity Project\Temp\UnityTempFile-84c6f8b12b22a2d4fb11f9c5e0a7846e
-    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Temp\UnityTempFile-84c6f8b12b22a2d4fb11f9c5e0a7846e
-    projectPath: Temp\UnityTempFile-84c6f8b12b22a2d4fb11f9c5e0a7846e
+  - path: New Unity Project\Temp\UnityTempFile-85719901a44060c42a36de46a22bf7fb
+    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Temp\UnityTempFile-85719901a44060c42a36de46a22bf7fb
+    projectPath: Temp\UnityTempFile-85719901a44060c42a36de46a22bf7fb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: New Unity Project\Temp\UnityTempFile-8d365327efb02824ea60114003d32eda
-    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Temp\UnityTempFile-8d365327efb02824ea60114003d32eda
-    projectPath: Temp\UnityTempFile-8d365327efb02824ea60114003d32eda
+  - path: New Unity Project\Temp\UnityTempFile-aee803ad99eb6a54aab6981f6d75d4f2
+    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Temp\UnityTempFile-aee803ad99eb6a54aab6981f6d75d4f2
+    projectPath: Temp\UnityTempFile-aee803ad99eb6a54aab6981f6d75d4f2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: New Unity Project\Temp\UnityTempFile-900b2b5a1e16e0741b25a21be84bd30e
-    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Temp\UnityTempFile-900b2b5a1e16e0741b25a21be84bd30e
-    projectPath: Temp\UnityTempFile-900b2b5a1e16e0741b25a21be84bd30e
+  - path: New Unity Project\Temp\UnityTempFile-c3dab54743acf3d47a4e9fc467a1dc3f
+    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Temp\UnityTempFile-c3dab54743acf3d47a4e9fc467a1dc3f
+    projectPath: Temp\UnityTempFile-c3dab54743acf3d47a4e9fc467a1dc3f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: New Unity Project\Temp\UnityTempFile-a53537dd8d3495146854acfdbf8fa3e3
-    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Temp\UnityTempFile-a53537dd8d3495146854acfdbf8fa3e3
-    projectPath: Temp\UnityTempFile-a53537dd8d3495146854acfdbf8fa3e3
+  - path: New Unity Project\Temp\UnityTempFile-eeb54d18150a35b42adf56c59b93d50c
+    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Temp\UnityTempFile-eeb54d18150a35b42adf56c59b93d50c
+    projectPath: Temp\UnityTempFile-eeb54d18150a35b42adf56c59b93d50c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: New Unity Project\Temp\UnityTempFile-c2b46527f7a1f7c499e0930295b40a9f
-    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Temp\UnityTempFile-c2b46527f7a1f7c499e0930295b40a9f
-    projectPath: Temp\UnityTempFile-c2b46527f7a1f7c499e0930295b40a9f
+  - path: New Unity Project\Temp\UnityTempFile-fda548e4ce9808844b68c53c73fa403f
+    fullPath: C:\Users\tinkr\Documents\GitHub\Unity-test\New Unity Project\Temp\UnityTempFile-fda548e4ce9808844b68c53c73fa403f
+    projectPath: Temp\UnityTempFile-fda548e4ce9808844b68c53c73fa403f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
